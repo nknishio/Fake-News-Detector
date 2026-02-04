@@ -1,5 +1,5 @@
 # Fake News Detector
-A user-friendly browser extension tool for detecting fake news.
+A user-friendly, easy-to-load browser extension tool for detecting fake news! Compatible with any Chromium-based browser (Google Chrome, Microsoft Edge, Opera, Brave, Vivaldi, Chromium, etc.).
 
 Final project for high school senior capstone course: Advanced Java Topics and Machine Learning
 
